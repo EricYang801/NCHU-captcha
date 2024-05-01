@@ -22,7 +22,7 @@ def download_captcha():
 
     if response.status_code == 200:
         # Check if the 'images' directory exists, if not, create it
-        directory = './images'
+        directory = './ilearning_images/'
         if not os.path.exists(directory):
             os.makedirs(directory)
         
