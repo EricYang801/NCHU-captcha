@@ -14,3 +14,5 @@ portal_captcha_downloader.py是模擬一般使用者點開網站取得驗證碼
 ilearning_captcha_downloader.py
 是靠爬蟲去抓取中興大學ilearning的驗證碼
 
+Captcha_preprocessing.py
+驗證碼圖片預處理
